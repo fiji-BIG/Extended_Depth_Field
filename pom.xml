@@ -34,6 +34,13 @@
 		</dependency>
 	</dependencies>
 
+	<scm>
+		<connection>scm:git:git://github.com/fiji/Extended_Depth_Field</connection>
+		<developerConnection>scm:git:git@github.com:fiji/Extended_Depth_Field</developerConnection>
+		<tag>HEAD</tag>
+		<url>https://github.com/fiji/Extended_Depth_Field</url>
+	</scm>
+
 	<repositories>
 		<!-- NB: for project parent, in case of partial checkout -->
 		<repository>
