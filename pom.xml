@@ -25,12 +25,10 @@
 		<dependency>
 			<groupId>sc.fiji</groupId>
 			<artifactId>imageware</artifactId>
-			<version>${imageware.version}</version>
 		</dependency>
 		<dependency>
 			<groupId>sc.fiji</groupId>
 			<artifactId>wavelets</artifactId>
-			<version>${wavelets.version}</version>
 		</dependency>
 	</dependencies>
 
