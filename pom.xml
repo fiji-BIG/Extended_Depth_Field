@@ -13,7 +13,7 @@
 	</parent>
 
 	<artifactId>Extended_Depth_Field</artifactId>
-	<version>2.0.0-SNAPSHOT</version>
+	<version>2.0.0</version>
 
 	<name>plugins/Extended_Depth_Field.jar</name>
 	<description></description>
