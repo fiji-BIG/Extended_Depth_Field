@@ -23,6 +23,8 @@
 
 package edfgui;
 
+import edf.LogSingleton;
+
 import java.awt.BorderLayout;
 import java.awt.Color;
 import java.awt.Insets;
@@ -35,8 +37,6 @@ import javax.swing.JPanel;
 import javax.swing.JScrollBar;
 import javax.swing.JScrollPane;
 import javax.swing.JTextArea;
-
-import edf.LogSingleton;
 
 public class LogPane extends JPanel implements ActionListener{
 

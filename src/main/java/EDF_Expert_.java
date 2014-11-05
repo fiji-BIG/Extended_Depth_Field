@@ -24,13 +24,13 @@
 //
 //==============================================================================
 
+import edfgui.AbstractDialog;
+import edfgui.AdvancedDialog;
 import ij.IJ;
 import ij.ImagePlus;
 import ij.WindowManager;
 import ij.gui.GUI;
 import ij.plugin.PlugIn;
-import edfgui.AbstractDialog;
-import edfgui.AdvancedDialog;
 
 public class EDF_Expert_ implements PlugIn {
 

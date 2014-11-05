@@ -23,12 +23,6 @@
 
 package edfgui;
 
-import ij.ImagePlus;
-import ij.ImageStack;
-import ij.process.ColorProcessor;
-import imageware.Builder;
-import imageware.ImageWare;
-import surfacemap.SurfaceMap3D;
 import edf.AbstractEdfAlgorithm;
 import edf.Color2BW;
 import edf.EdfComplexWavelets;
@@ -39,6 +33,12 @@ import edf.LogSingleton;
 import edf.MorphologicalOperators;
 import edf.PostProcessing;
 import edf.Tools;
+import ij.ImagePlus;
+import ij.ImageStack;
+import ij.process.ColorProcessor;
+import imageware.Builder;
+import imageware.ImageWare;
+import surfacemap.SurfaceMap3D;
 
 public class ExtendedDepthOfField {
 

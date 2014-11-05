@@ -24,6 +24,7 @@
 //
 //==============================================================================
 
+import edfgui.BasicDialog;
 import ij.IJ;
 import ij.ImagePlus;
 import ij.Macro;
@@ -32,8 +33,6 @@ import ij.gui.GUI;
 import ij.plugin.PlugIn;
 
 import java.util.StringTokenizer;
-
-import edfgui.BasicDialog;
 
 /**
  * This class is a plugin of ImageJ. It offers an easy dialog box to run

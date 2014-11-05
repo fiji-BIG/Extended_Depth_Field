@@ -23,10 +23,10 @@
 
 package edfgui;
 
+import edf.ProcessTopology;
 import ij.IJ;
 import ij.ImagePlus;
 import ij.WindowManager;
-import edf.ProcessTopology;
 
 public class ThreadTopoProc extends Thread {
 

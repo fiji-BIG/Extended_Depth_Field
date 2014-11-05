@@ -25,6 +25,7 @@
 
 package edfgui;
 
+import edf.Tools;
 import ij.ImagePlus;
 import ij.WindowManager;
 
@@ -46,8 +47,6 @@ import javax.swing.JLabel;
 import javax.swing.JPanel;
 import javax.swing.JProgressBar;
 import javax.swing.JSlider;
-
-import edf.Tools;
 
 
 public class BasicDialog extends AbstractDialog

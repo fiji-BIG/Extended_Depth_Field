@@ -26,6 +26,8 @@
 
 package edfgui;
 
+import edf.Tools;
+
 import java.awt.CardLayout;
 import java.awt.FlowLayout;
 import java.awt.GridBagConstraints;
@@ -65,8 +67,6 @@ import javax.swing.JToolBar;
 import javax.swing.ListSelectionModel;
 import javax.swing.event.ListSelectionEvent;
 import javax.swing.event.ListSelectionListener;
-
-import edf.Tools;
 
 public class AdvancedDialog extends AbstractDialog
 		implements 	ListSelectionListener, ActionListener, ItemListener, WindowListener {

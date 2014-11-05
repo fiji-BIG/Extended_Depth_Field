@@ -26,6 +26,8 @@
 
 package edfgui;
 
+import edf.LogSingleton;
+
 import java.awt.Component;
 import java.awt.GridBagConstraints;
 import java.awt.GridBagLayout;
@@ -40,8 +42,6 @@ import javax.swing.JPanel;
 import javax.swing.JProgressBar;
 import javax.swing.JToolBar;
 import javax.swing.Timer;
-
-import edf.LogSingleton;
 
 
 public abstract class AbstractDialog extends JFrame {
