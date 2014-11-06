@@ -18,6 +18,25 @@
 	<name>plugins/Extended_Depth_Field.jar</name>
 	<description></description>
 
+	<scm>
+		<connection>scm:git:git://github.com/fiji/Extended_Depth_Field</connection>
+		<developerConnection>scm:git:git@github.com:fiji/Extended_Depth_Field</developerConnection>
+		<tag>HEAD</tag>
+		<url>https://github.com/fiji/Extended_Depth_Field</url>
+	</scm>
+	<ciManagement>
+		<system>Jenkins</system>
+		<url>http://jenkins.imagej.net/job/Extended_Depth_Field/</url>
+	</ciManagement>
+
+	<repositories>
+		<!-- NB: for project parent -->
+		<repository>
+			<id>imagej.public</id>
+			<url>http://maven.imagej.net/content/groups/public</url>
+		</repository>
+	</repositories>
+
 	<dependencies>
 		<!-- Fiji dependencies -->
 		<dependency>
@@ -35,25 +54,5 @@
 			<artifactId>ij</artifactId>
 		</dependency>
 	</dependencies>
-
-	<ciManagement>
-		<system>Jenkins</system>
-		<url>http://jenkins.imagej.net/job/Extended_Depth_Field/</url>
-	</ciManagement>
-
-	<scm>
-		<connection>scm:git:git://github.com/fiji/Extended_Depth_Field</connection>
-		<developerConnection>scm:git:git@github.com:fiji/Extended_Depth_Field</developerConnection>
-		<tag>HEAD</tag>
-		<url>https://github.com/fiji/Extended_Depth_Field</url>
-	</scm>
-
-	<repositories>
-		<!-- NB: for project parent -->
-		<repository>
-			<id>imagej.public</id>
-			<url>http://maven.imagej.net/content/groups/public</url>
-		</repository>
-	</repositories>
 
 </project>
