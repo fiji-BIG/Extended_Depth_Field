@@ -24,7 +24,7 @@
 		<license>
 			<name>BIG</name>
 			<url>http://fiji.sc/BIG_License</url>
-			<distribution>repo</distribution>
+			<distribution>manual</distribution>
 			<comments>Not an OSS license!</comments>
 		</license>
 	</licenses>
