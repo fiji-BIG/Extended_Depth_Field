@@ -57,6 +57,10 @@
 		<tag>HEAD</tag>
 		<url>https://github.com/fiji/Extended_Depth_Field</url>
 	</scm>
+	<issueManagement>
+		<system>GitHub Issues</system>
+		<url>https://github.com/fiji/Extended_Depth_Field/issues</url>
+	</issueManagement>
 	<ciManagement>
 		<system>Jenkins</system>
 		<url>http://jenkins.imagej.net/job/Extended_Depth_Field/</url>
