@@ -1,0 +1,8 @@
+* The software packages provided here are plugins for ImageJ, a general purpose
+  image-processing package.
+* ImageJ has a public domain licence; it runs on several plateforms: Unix,
+  Linux, Windows, Mac OS 9 and Mac OS X.
+* You are free to use this software for research purposes, but you should not
+  redistribute it without our consent.
+* In addition, we expect you to include adequate citations and acknowledgments
+  whenever you present or publish results that are based on it.
